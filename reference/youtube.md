@@ -1,0 +1,2 @@
+- [NeetCode YouTube Channel](https://www.youtube.com/c/neetcode)  
+- [WilliamFiset Data Structures Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u)
