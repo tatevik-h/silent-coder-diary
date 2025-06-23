@@ -31,3 +31,17 @@ The Two Pointers technique involves using **two indices (pointers)** to traverse
   - Else → `right -= 1`
 
 3. End when pointers cross or result found.
+
+
+## 💡 Time and Space Complexity
+
+- **Time Complexity:**  
+  The Two Pointers technique usually runs in **O(n)** time because each pointer moves at most `n` steps through the array or string.  
+  This is a significant improvement compared to a brute force approach, which often takes **O(n²)** time.
+
+- **Space Complexity:**  
+  The technique uses **O(1)** additional space since it only requires two pointers (variables) regardless of input size.
+
+- **Why is this efficient?**  
+  By moving pointers based on comparisons and conditions, you avoid unnecessary repeated checks and reduce the problem's search space linearly.
+
