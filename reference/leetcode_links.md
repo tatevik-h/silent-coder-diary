@@ -12,3 +12,7 @@
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 - [76.Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [1839. Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/)
+
+## Prefix Sum
+- [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
+  
