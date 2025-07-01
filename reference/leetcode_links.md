@@ -15,4 +15,6 @@
 
 ## Prefix Sum
 - [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
+- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+- [1248.Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
   
