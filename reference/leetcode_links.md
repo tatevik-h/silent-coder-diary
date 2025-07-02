@@ -17,4 +17,9 @@
 - [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 - [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 - [1248.Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
-  
+- [1480. Running Sun of 1d Affay](https://leetcode.com/problems/running-sum-of-1d-array/description/)
+- [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
+- [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+- [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
+- [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
+- [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
