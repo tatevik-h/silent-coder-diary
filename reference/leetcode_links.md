@@ -23,3 +23,5 @@
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
 - [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
 - [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
+- [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/)
+- [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/description/)
