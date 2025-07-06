@@ -33,3 +33,9 @@
 - [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/description/)
 - [3427. Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/description/)
 - [3432. Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/)
+
+## Binary Search
+- [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
+- [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+- [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
+- [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
