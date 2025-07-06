@@ -41,6 +41,7 @@ def binary_search(arr, target):
             right = mid - 1
     
     return -1  # or False if not found
+```
 
 ## ⏱️ Time & Space Complexity
 
