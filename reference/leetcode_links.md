@@ -39,3 +39,5 @@
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 - [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+- [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
+- [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
