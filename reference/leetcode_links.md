@@ -42,3 +42,6 @@
 - [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
+
+  ## Monotonic Stack
+  - [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
