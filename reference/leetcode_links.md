@@ -45,3 +45,4 @@
 
 ## Monotonic Stack
 - [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
+- [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
