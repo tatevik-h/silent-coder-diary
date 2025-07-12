@@ -46,3 +46,5 @@
 ## Monotonic Stack
 - [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+- [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
+- [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
