@@ -49,3 +49,4 @@
 - [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
 - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 - [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
+- [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
