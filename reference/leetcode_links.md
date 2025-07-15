@@ -50,3 +50,9 @@
 - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 - [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+
+## Hash Table
+- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+- [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+- [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
