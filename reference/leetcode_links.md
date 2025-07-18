@@ -63,3 +63,4 @@
 - [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 - [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+- [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
