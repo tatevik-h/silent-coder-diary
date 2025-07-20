@@ -64,3 +64,6 @@
 - [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
+- [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
