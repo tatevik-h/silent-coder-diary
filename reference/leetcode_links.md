@@ -67,3 +67,10 @@
 - [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+
+## Link List
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+- [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
+  
