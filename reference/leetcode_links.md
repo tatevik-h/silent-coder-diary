@@ -78,3 +78,11 @@
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+- [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
+- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+
+## Dummy Node Pattern
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+- [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+- [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
