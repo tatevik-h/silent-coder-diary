@@ -86,3 +86,9 @@
 - [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
 - [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 - [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
+
+## Recursion on Link Lists
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+- [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+- [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
+- [86. Partition List](https://leetcode.com/problems/partition-list/description/)
