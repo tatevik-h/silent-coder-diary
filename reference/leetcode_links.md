@@ -92,3 +92,7 @@
 - [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
 - [86. Partition List](https://leetcode.com/problems/partition-list/description/)
+
+## Advanced In Place Modifications
+- [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
+- [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)
