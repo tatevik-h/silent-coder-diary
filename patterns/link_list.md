@@ -98,11 +98,4 @@ Used for:
 | Delete at Head   | O(1)               | O(1)                | O(1)                  |
 | Delete at Tail   | O(n)               | O(1)                | O(n)\*                |
 
-> \* If tail pointer is maintained
 
----
-
-Let me know if you'd like me to add:
-- Python code templates (e.g., `ListNode` class)
-- Common LeetCode linked list problems
-- Visual illustrations (ASCII or image-based)
