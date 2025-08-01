@@ -98,3 +98,6 @@
 - [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+
+## Doubly Link List / Custom Design
+- [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
