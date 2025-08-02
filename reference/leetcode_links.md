@@ -101,3 +101,4 @@
 
 ## Doubly Link List / Custom Design
 - [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+- [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
