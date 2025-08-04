@@ -102,3 +102,8 @@
 ## Doubly Link List / Custom Design
 - [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 - [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
+
+## Tree Traversal (DFS- Recursion)
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+- [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
