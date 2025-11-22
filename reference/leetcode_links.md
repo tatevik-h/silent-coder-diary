@@ -109,3 +109,6 @@
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+
+## Bottom-Up Recursion (Postorder Subtree Aggregation)
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
